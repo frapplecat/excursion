@@ -1,4 +1,5 @@
-html{background-color: Black;
+html{
+  background-color: black;
 }
 
 h1{
@@ -6,12 +7,12 @@ h1{
   font-family: Verdana;
   text-align: center;
   color: white;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 h2{
   font-size: 42px;
-  font-weight: 300;
+  font-weight: bold;
   font-family: Verdana;
   text-align: center;
   color: white;
@@ -35,4 +36,5 @@ text-align: center;
   text-align: right;
   color: Gray;
   font-family: Verdana;
+  font-size: 12px;
 }
